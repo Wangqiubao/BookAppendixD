@@ -1,0 +1,1 @@
+https://github.com/SoloChe/PINN_SEIR_torch
